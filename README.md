@@ -95,7 +95,7 @@ My personal portfolio showcasing my experience, education, skills, and software 
 ## 📫 Connect With Me
 
 - 🌐 [Portfolio](https://hosy-portfolio.vercel.app)
-- 💼 [LinkedIn](PASTE-YOUR-LINKEDIN-URL-HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hnin-oo-shwe-yi/)
 - 📧 [Email](mailto:hninooshweyi8@gmail.com)
 
 ---
